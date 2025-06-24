@@ -3,3 +3,6 @@ uvicorn
 joblib
 scikit-learn
 promethus_client
+pandas
+sqlalchemy
+psycopg2-binary
